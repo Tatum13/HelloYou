@@ -54,8 +54,10 @@ def vraag3Juist():
     antwoordvraag3 = input()
     if antwoordvraag3 == "a" or antwoordvraag3 == "b" or antwoordvraag3 == "A" or antwoordvraag3 == "B":
         print("Klopt, ik houd van gamen en van series kijken.")
+        print("Dat waren alle vragen")
     elif antwoordvraag3 == "c" or antwoordvraag3 == "C":
          print("Wie houd er nou weer van afwassen?!")
+         print("Dat waren alle vragen")
     else:
         print("Je kan alleen maar uit de keuze a, b of c keizen.")
         vraag3Juist()

@@ -1,5 +1,5 @@
-# Python-dingen
-##Ik ben een student op het Mediacollege en dit zijn codes die ik heb getypt en gecommit heb.
+# HelloYou
+##Ik ben een student op het Mediacollege en dit zijn codes(opdrachten) die ik heb getypt en gecommit heb.
 
 ###Dit zijn de codes die ik heb getypt voor de beroepsopdrachten. Als je niet code bestanden wilt zien ga dan naar:https://github.com/Tatum13/HelloYou
 
